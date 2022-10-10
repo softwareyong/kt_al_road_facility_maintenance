@@ -1,0 +1,5 @@
+train: ./images/train
+val: ./images/val
+
+nc: 12
+names: ['시설물및상태','손상부위','Animals(Dolls)','Person','Garbage bag & sacks','Construction signs & Parking prohibited board','Traffic cone','Box','Stones on road','Pothole on road','Filled pothole','Manhole']
